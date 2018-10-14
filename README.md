@@ -1,6 +1,6 @@
 # Datamining-en-assurance
 
-L’objet de ce projet est d’appliquer des méthodes de Machine Learning sur une base assurantielle. La principale difficulté rencontrée a été de trouver une base de données intéressante dans le domaine des assurances.
+L’objet de ce projet est d’appliquer des méthodes de Machine Learning sur une base assurantielle.
 
 Au final notre choix s’est porté sur des données fournissant les caractéristiques d’automobiles et leur risque assurantiel. Vous trouverez les données aux liens suivants : https://archive.ics.uci.edu/ml/datasets/automobile
 
